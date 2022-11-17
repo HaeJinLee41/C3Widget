@@ -11,15 +11,19 @@ In order to test the package:
 
 
 **To render Gauge Bar**
+
+
 input: any integet value you wish to display in your gauge bar
 
-Sample call: C3Gauge(30)
+test call: C3Gauge(30)
 
 
 **To render Pie Chart**
+
+
 input: any list of data values who wish to display in your pie chart
 
-Sample call: C3Pie(values=list(data1=20,data2=30,data3=10))
+test call: C3Pie(values=list(data1=20,data2=30,data3=10))
 
 
 
