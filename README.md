@@ -8,6 +8,7 @@ In order to test the package:
 2. devtools::install()
 3. devtools::load_all()
 4. library(C3)
+h
 
 
 **To render Gauge Bar**
